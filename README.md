@@ -2,6 +2,9 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## Disclaimer: 
+Such scripts, or configuration flaws are fictional and solely for safe educational or research purposes. None of the code, samples, or scenarios are intended for real-world use, and my repository does not endorse or facilitate actual misuse, abuse, or harm
+
 
 ## ⚠️ Vulnerability Management Projects
 

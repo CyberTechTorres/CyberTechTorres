@@ -12,6 +12,7 @@ Such scripts, or configuration flaws are fictional and solely for safe education
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/CyberTechTorres/Automation)**
 
 ## 🚨 Threat Hunting and Security Operations
+- **[Threat Hunting Scenario (Compromised Device)](https://github.com/CyberTechTorres/Threat-Hunt-Compromised-Device)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/CyberTechTorres/Threat-Hunt-TOR-Usage)**
 - **[Threat Hunting Scenario (Public Internet Facing Device)](https://docs.google.com/document/d/18d2iviWY6G0ov1FtmmHimIwLv6HkCdKjSV4i88pnW_0/edit?usp=sharing)**
 - **[Threat Hunting Scenario (Sudden Network Slow Down)](https://docs.google.com/document/d/1ZM54WyrEWtAG56__7xGaBrlYOsvXOhl1D4bUFxbtAXg/edit?usp=sharing)**

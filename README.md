@@ -12,6 +12,7 @@ Such scripts, or configuration flaws are fictional and solely for safe education
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/CyberTechTorres/Automation)**
 
 ## 🚨 Threat Hunting and Security Operations
+- **[Threat Hunting Scenario (Azuki Import/Export)](https://github.com/CyberTechTorres/Community-Threat-Hunt/blob/main/README.md)**
 - **[Threat Hunting Scenario (Compromised Device)](https://github.com/CyberTechTorres/Threat-Hunt-Compromised-Device)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/CyberTechTorres/Threat-Hunt-TOR-Usage)**
 - **[Threat Hunting Scenario (Public Internet Facing Device)](https://docs.google.com/document/d/18d2iviWY6G0ov1FtmmHimIwLv6HkCdKjSV4i88pnW_0/edit?usp=sharing)**

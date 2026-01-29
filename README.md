@@ -9,7 +9,7 @@ Such scripts, or configuration flaws are fictional and solely for safe education
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/CyberTechTorres/Vulnerability-Management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/CyberTechTorres/Automation)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH Scripting)](https://github.com/CyberTechTorres/Automation)**
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Azuki Import/Export)](https://github.com/CyberTechTorres/Community-Threat-Hunt/blob/main/README.md)**

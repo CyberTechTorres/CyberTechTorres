@@ -7,7 +7,7 @@ Such scripts, or configuration flaws are fictional and solely for safe education
 
 ## 💻 Python Learning Projects
 
-- **[Learning, Conceptualizing, & Understanding Python Projects](https://github.com/CyberTechTorres/Python-Learning/blob/main/README.md)**
+- **[Learning, Conceptualizing, & Understanding Python Projects](https://github.com/CyberTechTorres/Python-Learning/tree/main)**
 
 ## ⚠️ Vulnerability Management Projects
 

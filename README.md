@@ -18,10 +18,6 @@ Such scripts, or configuration flaws are fictional and solely for safe education
 - **[Threat Hunting Scenario (Azuki Import/Export)](https://github.com/CyberTechTorres/Community-Threat-Hunt/blob/main/README.md)**
 - **[Threat Hunting Scenario (Compromised Device)](https://github.com/CyberTechTorres/Threat-Hunt-Compromised-Device)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/CyberTechTorres/Threat-Hunt-TOR-Usage)**
-- **[Threat Hunting Scenario (Public Internet Facing Device)](https://docs.google.com/document/d/18d2iviWY6G0ov1FtmmHimIwLv6HkCdKjSV4i88pnW_0/edit?usp=sharing)**
-- **[Threat Hunting Scenario (Sudden Network Slow Down)](https://docs.google.com/document/d/1ZM54WyrEWtAG56__7xGaBrlYOsvXOhl1D4bUFxbtAXg/edit?usp=sharing)**
-- **[Threat Hunting Scenario (Insider Stealing Proprietary Data)](https://docs.google.com/document/d/10TDBH4-WOjrtipJpGVoq0zPsG6tIBamfqVgbdxailq4/edit?usp=sharing)**
-- **[Threat Hunting Scenario (PwnCrypt Ransome Outbreak)](https://docs.google.com/document/d/1j_CuO5LQF89PRG-W-ZpWl-Gqh3G0Wd1EUAun-vuIrRs/edit?usp=sharing)**
 
 
 <hr/>

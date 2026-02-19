@@ -7,7 +7,8 @@ Such scripts, or configuration flaws are fictional and solely for safe education
 
 ## 💻 Python Learning Projects
 
-- **[Learning, Conceptualizing, & Understanding Python Projects](https://github.com/CyberTechTorres/Python-Learning/tree/main)**
+- **[Creation of My Own Agentic AI SOC Analyst](https://github.com/CyberTechTorres/Python-Learning/tree/main)**
+- **[Learning Python Basics](https://github.com/CyberTechTorres/Python-Basics/tree/main)**
 
 ## ⚠️ Vulnerability Management Projects
 
